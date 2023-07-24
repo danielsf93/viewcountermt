@@ -20,7 +20,7 @@ class viewcountermt extends GenericPlugin {
    * enable and disable plugins.
    */
 	public function getDisplayName() {
-		return __('View counter for Material Theme');
+		return __('plugins.generic.viewcountermt.displayName');
 	}
 
 	/**
@@ -30,7 +30,7 @@ class viewcountermt extends GenericPlugin {
    * enable and disable plugins.
    */
 	public function getDescription() {
-		return __('Plugin que demonstra a quantidade de acessos e downloads de artigos');
+		return __('plugins.generic.viewcountermt.description');
 	}
 	
 	/**

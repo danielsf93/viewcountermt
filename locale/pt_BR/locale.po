@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-30T11:56:00-07:00\n"
+"PO-Revision-Date: 2020-06-06 02:30+0000\n"
+"Last-Translator: Daniel abcd usp\n"
+"Language-Team: Portuguese (Brazil) "
+"plugins/viewcountermt/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgid "plugins.generic.viewcountermt.displayName"
+msgstr "View Counter mt"
+
+msgid "plugins.generic.viewcountermt.description"
+msgstr "This plugin shows the number of accesses and downloads of articles. Developed for Material Theme."
+
+
+msgid "plugins.generic.viewcountermt.view"
+msgstr "Visualizações: "
+
+
+
+

@@ -59,7 +59,7 @@
 	</div>
 	{/if}
 	<br>{assign var=galleys value=$article->getGalleys()}
-	<i class='fa fa-bar-chart' style='color: red'></i> </span> <b>Visualizações: {$article->getViews()}</b><br>
+	<i class='fa fa-bar-chart' style='color: red'></i> </span> <b>{translate key="plugins.generic.viewcountermt.view"|escape}{$article->getViews()}</b><br>
 	{if !$hideGalleys}
 		<ul class="galleys_links">
 			{foreach from=$article->getGalleys() item=galley}

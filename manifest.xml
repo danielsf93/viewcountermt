@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <primary_locale>pt_BR</primary_locale>
+  <plugin
+    id="viewcountermt"
+    system="3.2.1-1"
+    package="viewcountermt"
+    directory="viewcountermt"
+    name="viewcountermt"
+    description="viewcountermt"
+    version="3.3.0-15"
+    date="2023-07-24"
+    author="STI FFLCH and ABCD USP"
+    email="daniel.ferreira@abcd.usp.br"
+    url="https://github.com/danielsf93/viewcountermt"
+  >
+  </plugin>
+</manifest>
